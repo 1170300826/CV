@@ -104,10 +104,7 @@ footer: #脚注多组
   print: #打印版markdown或者html
   screen:
   - text: "简历脚注"
-  #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
-
+ 
 #页面额外js脚本，如xx统计
 scripts:
 #- src: "assets/js/resume.js"
